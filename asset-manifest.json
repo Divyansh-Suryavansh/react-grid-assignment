@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Divyansh-Suryavansh/react-grid-assignment/static/css/main.3384387a.chunk.css",
+    "main.js": "/Divyansh-Suryavansh/react-grid-assignment/static/js/main.6b1d44a2.chunk.js",
+    "main.js.map": "/Divyansh-Suryavansh/react-grid-assignment/static/js/main.6b1d44a2.chunk.js.map",
+    "runtime-main.js": "/Divyansh-Suryavansh/react-grid-assignment/static/js/runtime-main.6b8aebef.js",
+    "runtime-main.js.map": "/Divyansh-Suryavansh/react-grid-assignment/static/js/runtime-main.6b8aebef.js.map",
+    "static/js/2.55f128e0.chunk.js": "/Divyansh-Suryavansh/react-grid-assignment/static/js/2.55f128e0.chunk.js",
+    "static/js/2.55f128e0.chunk.js.map": "/Divyansh-Suryavansh/react-grid-assignment/static/js/2.55f128e0.chunk.js.map",
+    "static/js/3.ec782ffe.chunk.js": "/Divyansh-Suryavansh/react-grid-assignment/static/js/3.ec782ffe.chunk.js",
+    "static/js/3.ec782ffe.chunk.js.map": "/Divyansh-Suryavansh/react-grid-assignment/static/js/3.ec782ffe.chunk.js.map",
+    "index.html": "/Divyansh-Suryavansh/react-grid-assignment/index.html",
+    "static/css/main.3384387a.chunk.css.map": "/Divyansh-Suryavansh/react-grid-assignment/static/css/main.3384387a.chunk.css.map",
+    "static/js/2.55f128e0.chunk.js.LICENSE.txt": "/Divyansh-Suryavansh/react-grid-assignment/static/js/2.55f128e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b8aebef.js",
+    "static/js/2.55f128e0.chunk.js",
+    "static/css/main.3384387a.chunk.css",
+    "static/js/main.6b1d44a2.chunk.js"
+  ]
+}
